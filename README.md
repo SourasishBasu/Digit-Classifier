@@ -36,17 +36,18 @@ Interactive ML webapp using Gradio and Tensorflow to identify handwritten digits
 
 - Click clear to refresh the sketch area and start drawing again.
 
-## App Images
+## Images
 
 <p align="center"> 
-  <img src="https://github.com/SourasishBasu/Digit-Classifier/blob/36be02c13b92a8b7a1fbc8e0484a951710101c50/assets/webUI.png" />
+  <img src="assets/webUI.png" />
    <br><b>Interface</b>
 </p>
 
 <br></br>
 
 <p align="center"> 
-  <img src="https://github.com/SourasishBasu/Digit-Classifier/blob/36be02c13b92a8b7a1fbc8e0484a951710101c50/assets/guess.png" />
+  <img src="assets/output.png" />
+  <br><b>Example</b>
 </p>
 
 <br></br>
