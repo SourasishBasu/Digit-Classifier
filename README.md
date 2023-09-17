@@ -21,7 +21,7 @@ Interactive ML webapp using Gradio and Tensorflow to identify handwritten digits
    python main.py
   ```
   
-- The web interface will be available at the url generated: http://localhost:8080
+- The web interface will be available at the url generated: http://localhost:7860
 
 ## Using Google Colab
 - The program is also available in Google Colab which can be accessed [here](https://colab.research.google.com/github/SourasishBasu/Digit-Classifier/blob/main/Digit_Classifier.ipynb).
